@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Числа Фибоначчи"
-date:   2014-09-19 12:38:26
+date:   2014-09-19 19:38:26
 categories: python algorithms
 permalink: /blog/fibonacci-numbers
 ---

@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   In Console We Trust. Code hard. Or die.
   Программист и идейный вдохновитель.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://omgit.ru" # the base hostname & protocol for your site
 twitter_username: stleon
 github_username:  stleon
 
