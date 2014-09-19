@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Word Cloud 2"
+description: "Облако тегов спустя год"
+date:   2016-11-28 23:19:00
+categories: python, word-cloud
+permalink: /blog/word-cloud2
+---
+
+Мой старый Word Cloud
+
+![Mine word cloud](/downloads/word-cloud.png)
+
+Спустя год:
+
+![Mine word cloud 2](/downloads/word_cloud_2.png)
+
+C момента публикации старой обложки прошло чуть больше года. добавились новые метки, некоторые стали больше, некоторые - меньше.
+
+Если кратко, то это облако меток статей с хабра и гиктаймс, которые я добавил в избранное.
+
+Чем больше метка, тем чаще она встречается в статьях.

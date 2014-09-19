@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Hack Style #3"
+description: "Hack Style #3"
+date:   2015-06-17 16:20:00
+categories: python, hack-style
+permalink: /blog/hack-style-3
+---
+
+Трехместное выражение **if/else**
+
+Все давно знают и юзают
+
+{% highlight python %}
+
+A = Y if X else Z
+
+{% endhighlight %}
+
+Но такого вы еще не видели:
+<!--more-->
+
+{% highlight python %}
+
+A = [Z, Y][bool(X)]
+
+{% endhighlight %}
+
+По понятным причинам данную версию лучше не использовать

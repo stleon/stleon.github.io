@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "isNaN"
+description: "isNaN в javascript"
+date:   2014-10-11 22:28:00
+categories: javascript
+permalink: /blog/isnan-js
+---
+
+![isNaN](/downloads/isNaN.png)
+
+**isNaN()** -- *is not a number*, то есть -- не число. ‘String’- это не число, вернуло истину. 12 - число, ложь. Ладно, типа для удобства сделано, что `isNaN(‘12’)` вернет тоже ложь, **js** автоматом сделает “перевод” из одного типа данных в другой. Черт с ним. Но для меня это жутко не удобно. ОК.
+
+С назначением **typeof()** все и так понятно. Тип. `typeof(‘12’)` вернет “string”, а не “number”. Но как же! Ведь **isNaN()** так не считает! 

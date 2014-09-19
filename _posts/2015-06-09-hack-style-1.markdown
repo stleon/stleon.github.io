@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Hack Style #1"
+description: "Hack Style #1"
+date:   2015-06-09 00:24:00
+categories: python, hack-style
+permalink: /blog/hack-style-1
+---
+
+Бывает полезным заменить
+
+{% highlight python %}
+
+if cond:
+    return True
+else:
+    return False
+
+{% endhighlight %}
+
+На..
+<!--more-->
+
+{% highlight python %}
+
+return bool(cond)
+
+{% endhighlight %}

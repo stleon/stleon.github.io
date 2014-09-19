@@ -1,0 +1,27 @@
+# Site settings
+title: Lev Tonkikh
+email: leonst998@gmail.com
+description: In Console We Trust. Code hard. Or die. Программист и идейный вдохновитель.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://omgit.ru" # the base hostname & protocol for your site
+twitter_username: stleon
+github_username:  stleon
+timezone: Europe/Moscow
+encoding: utf-8
+# Build settings
+markdown: kramdown
+
+excerpt_separator: "<!--more-->"
+paginate: 20
+
+name: OmgIT
+author: Тонких Лев (leonst998@gmail.com)
+rss_path: feeds/entries/
+rss_name: index.html
+rss_post_limit: 20
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap

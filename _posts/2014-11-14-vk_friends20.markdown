@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Анализ дружеских связей VK с помощью Python. Продолжение"
+description: "Распределенная масштабируемая система сбора/анализа друзей ВКонтакте"
+date:   2014-11-14 16:50:00
+categories: vk python
+permalink: /blog/2014-11-14-vk_friends20
+---
+
+Моя новая статья на Хабрахабр - [http://habrahabr.ru/post/243229](http://habrahabr.ru/post/243229/)
+
+![Граф](http://habrastorage.org/files/d3a/f5b/c31/d3af5bc314db469da4010b85fefff3af.png)

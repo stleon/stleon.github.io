@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Hack Style #5"
+description: "Hack Style #5"
+date:   2015-07-19 17:24:00
+categories: python, hack-style
+permalink: /blog/hack-style-5
+---
+
+Как мы помним, для распаковки позиционных аргументов используется **star-unpacking** с названием переменной **args**, а для именнованных аргументов - **star-star-unpacking** с названием переменной **kwargs**:
+
+<!--more-->
+
+{% highlight python %}
+def test(*args, **kwargs):
+  print(args, kwargs)
+
+test(3, x=1, y=2,)
+{% endhighlight %}
+
+Во втором случае никто не запрещает использовать
+
+{% highlight python %}
+**kwds  **kwargs **kw **d **keywords
+{% endhighlight %}
