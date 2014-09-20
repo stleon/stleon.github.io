@@ -14,3 +14,5 @@ permalink: /about/
 - [Brainstorage](http://brainstorage.me/stleon/)
 - [Toster](http://toster.ru/user/STLEON)
 - [Google+](https://plus.google.com/+STLEON)
+
+[Что тут было раньше](/blog/yet-another-blog)
