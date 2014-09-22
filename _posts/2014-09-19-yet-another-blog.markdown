@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Yet Another Blog"
+description: "Еще один блог"
 date:   2014-09-19 12:38:26
 categories: history
 permalink: /blog/yet-another-blog

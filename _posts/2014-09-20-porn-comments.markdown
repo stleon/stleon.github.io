@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Порно Comments"
+description: "О первом порно-цитатнике рунета"
 date:   2014-09-21 00:00:26
 categories: projects
 permalink: /blog/porn-comments
