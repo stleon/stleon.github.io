@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Профы и профи"
+description: "Профы на Microsoft Windows"
+date:   2014-10-03 11:36:00
+categories: quotes
+permalink: /blog/profs
+---
+
+>Профы поустанавливают Microsoft Windows N дома, потом притащат ее на работу, и профи придется с этим разбираться.
+
+Георгий Кузнецов
