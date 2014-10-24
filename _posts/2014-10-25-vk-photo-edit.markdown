@@ -9,6 +9,6 @@ permalink: /blog/vk-photo-edit
 
 И снова ВКонтакте радует. На этот раз не могу поменять аватарку. Не может она на сервере сохраниться. Ну никак. 
 
-{% highlight %}
+{% highlight text%}
 Error: ERR_STORAGE_ENGINE_SAVE_FAILED. Details: volume is "9740946", from upl_9740?act=owner_photo_edit
 {% endhighlight %}
