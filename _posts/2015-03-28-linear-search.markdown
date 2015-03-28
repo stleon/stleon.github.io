@@ -130,3 +130,5 @@ class TestLinearSearch(unittest.TestCase):
 	def testEnd(self):
 		self.assertFunctions(linear_search_1, linear_search_2, linear_search_3, str2find='p', index2find=9)
 {% endhighlight %}
+
+Код можно найти [здесь](https://github.com/stleon/algorithms).
