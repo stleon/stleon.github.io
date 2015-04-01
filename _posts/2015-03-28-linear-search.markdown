@@ -132,3 +132,5 @@ class TestLinearSearch(unittest.TestCase):
 {% endhighlight %}
 
 Код можно найти [здесь](https://github.com/stleon/algorithms).
+
+Интересно? См. [Бинарный (двоичный) поиск](/blog/binary-search)
