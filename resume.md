@@ -167,6 +167,12 @@ Web Page Perfomance Test:
 
 #Еще
 
+Профиль в Stack Overflow на русском
+
+<a href="http://ru.stackoverflow.com/users/11899/lev">
+<img src="http://ru.stackoverflow.com/users/flair/11899.png?theme=clean" width="208" height="58" alt="Профиль пользователя Lev на веб-сайте Stack Overflow на русском,Q&amp;A for программистов" title="Профиль пользователя Lev на веб-сайте Stack Overflow на русском,Q&amp;A for программистов">
+</a>
+
 В свободное время решаю задачки с проекта Эйлера:
 
 ![Project Euler](https://projecteuler.net/profile/stleon.png)
