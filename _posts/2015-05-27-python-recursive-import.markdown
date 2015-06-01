@@ -7,7 +7,7 @@ categories: python
 permalink: /blog/python-recursive-import
 ---
 
-На 27 Django Moscow Meetup Николай Чабановский рассказывал про Stackoverflow на русском. 
+На [27 Django Moscow Meetup](/blog/27-moscow-django-meetup) Николай Чабановский рассказывал про Stackoverflow на русском. 
 
 Написал ответ на [вопрос](http://ru.stackoverflow.com/questions/426298/), ответ получился слишком обширным, на правах автора забираю сюда.
 
