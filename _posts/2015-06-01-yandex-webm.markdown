@@ -3,7 +3,7 @@ layout: post
 title:  "Yandex Вебмастерская"
 description: "Третья вебмастерская Яндекса"
 date:   2015-06-01 00:08:00
-categories: python 
+categories: yandex, webm 
 permalink: /blog/yandex-webm
 ---
 
