@@ -13,7 +13,7 @@ markdown: kramdown
 excerpt_separator: "<!--more-->"
 paginate: 20
 
-name: Блог Романа Ворушина
+name: OmgIT
 author: Тонких Лев (leonst998@gmail.com)
 rss_path: feeds/entries/
 rss_name: index.html
