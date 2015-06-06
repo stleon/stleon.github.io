@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Hack Style #0"
+description: "Hack Style #0"
+date:   2015-06-06 15:03:00
+categories: python, hack-style
+permalink: /blog/hack-style-0
+---
+
+Сегодня пришла идея запустить данную рубрику. 
+
+Не буду описывать суть, вы и сами все поймете. Если есть что прислать, жду на почту.
+
+<!--more-->
+
+{% highlight python %}
+
+class A:
+	pass
+
+class B:
+	pass
+
+parents = [A, B]
+
+class C(*parents):
+	pass
+
+print(C.__bases__)
+
+{% endhighlight %}
