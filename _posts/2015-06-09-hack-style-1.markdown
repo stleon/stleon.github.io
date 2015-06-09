@@ -12,9 +12,9 @@ permalink: /blog/hack-style-1
 {% highlight python %}
 
 if cond:
-	return True
+    return True
 else:
-	return False
+    return False
 
 {% endhighlight %}
 

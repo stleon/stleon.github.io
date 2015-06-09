@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Hack Style #2"
+description: "Hack Style #2"
+date:   2015-06-09 22:57:00
+categories: python, hack-style
+permalink: /blog/hack-style-2
+---
+
+Некоторые забывают, что вместо
+
+{% highlight python %}
+
+def test(iterable):
+    for element in iterable:
+        if element:
+            return True
+    return False
+
+{% endhighlight %}
+
+Можно юзать..
+<!--more-->
+
+{% highlight python %}
+
+any(iterable)
+
+{% endhighlight %}
