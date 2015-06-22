@@ -14,6 +14,8 @@ permalink: /resume/
 - Mysql
 - Python 2.7 / 3
 - Celery
+- Tornado
+- Redis
 - RabbitMQ
 - Supervisord
 - Django REST Framework 
