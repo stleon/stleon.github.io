@@ -375,17 +375,17 @@ sudo apt-get install docker.io
 Далее собрать образ для контейнера приложения и запустить сам контейнер с приложением, не забыв перед этим про **Redis**:
 
 {% highlight python %}
-cd dir_name
+cd tornado-redis-chat
 docker build -t chat .
 docker run --name some-redis -d redis
-docker run --name some-app --link some-redis:redis -d chat
+docker run --name some-app -p 8888:8888 --link some-redis:redis -d chat
 {% endhighlight %}
 
 ##P.S
 
 Код можно найти [здесь](https://github.com/stleon/tornado-redis-chat)
 
-Меня очень подпирали сроки и отсутствие свободного времени, поэтому я так и не успел протестировать образ и загрузить его куда-либо. Но в задании это не требуется, а лишь описать схему запуска.
+Меня очень подпирали сроки и отсутствие свободного времени, поэтому я так и не успел загрузить образ куда-либо. Но в задании это не требуется, а лишь описать схему запуска.
 
 ##Список использованной литературы:
 
