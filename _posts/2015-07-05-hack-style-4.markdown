@@ -4,7 +4,7 @@ title:  "Hack Style #4"
 description: "Hack Style #4"
 date:   2015-07-05 12:01:00
 categories: python, hack-style
-permalink: /blog/hack-style-3
+permalink: /blog/hack-style-4
 ---
 
 Методы **str.startswith()** и **str.endswith()** могут принимать в качестве аргумента кортеж.
