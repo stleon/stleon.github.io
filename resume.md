@@ -8,6 +8,7 @@ permalink: /resume/
 - HTML, CSS, JS;
 - Bootstrap
 - Git, mercurial
+- Travis CI
 - Django
 - Bottle
 - Pony ORM
