@@ -98,8 +98,9 @@ Graffity позволит лучше понять и выявить субкул
 
 # Прочитанная литература о Python
 - [Python documentation](https://docs.python.org)
-- Марк Лутц «Изучаем Python»
-- Дэвид Бизли «Python. Подробный справочник»
+- Mark Lutz «Learning Python»
+- Mark Lutz «Python. Pocket Reference»
+- David Beazley «Python. Essential Reference»
 - Много-много статей как с Хабрахабра ([Избранное](http://habrahabr.ru/users/STLEON/favorites/tag/python/)), так и с других источников.
 
 Периодически читаю доки используемых библиотек и фреймворков.
