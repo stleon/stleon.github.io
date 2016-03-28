@@ -7,7 +7,7 @@ categories: python moscow meetup
 permalink: /blog/moscow-python-meetup-30
 ---
 
-19 января 2015 года был спикером на [MOSCOW PYTHON MEETUP № 30](http://www.moscowpython.ru/meetup/30/analiz-druzheskih-svjazej-vk-s-pomoshchju-python/).
+19 ноября 2015 года был спикером на [MOSCOW PYTHON MEETUP № 30](http://www.moscowpython.ru/meetup/30/analiz-druzheskih-svjazej-vk-s-pomoshchju-python/) в **Rambler&Co**.
 
 Рассказал об анализе социальных графов, об этом изложено в моих статьях [Анализ дружеских связей VK с помощью Python ](https://habrahabr.ru/post/221251/) и [Анализ дружеских связей VK с помощью Python. Продолжение](https://habrahabr.ru/post/221251/).
 
