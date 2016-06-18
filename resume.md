@@ -13,6 +13,7 @@ permalink: /resume/
 - Bottle
 - Pony ORM
 - Mysql
+- PostgreSQL
 - Python 2.7 / 3
 - Celery
 - Tornado
@@ -144,7 +145,7 @@ Graffity позволит лучше понять и выявить субкул
 - Celery
 - RabbitMQ
 - uwsgi
-- Mysql
+- PostgreSQL
 - Django REST Framework
 
 Бывают разные проекты и разные задачи.
