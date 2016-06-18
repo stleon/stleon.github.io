@@ -20,4 +20,7 @@ rss_name: index.html
 rss_post_limit: 20
 
 # Gems
-gems: [jekyll-paginate]
+gems: 
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
