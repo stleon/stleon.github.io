@@ -6,7 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://omgit.ru" # the base hostname & protocol for your site
 twitter_username: stleon
 github_username:  stleon
-TZ: Europe/Moscow  
+timezone: Europe/Moscow
+encoding: utf-8
 # Build settings
 markdown: kramdown
 
