@@ -5,19 +5,26 @@ permalink: /resume/
 ---
 
 # О навыках
+- Telegram Bots
+- scrapy
+- pytest
 - HTML, CSS, JS;
 - Bootstrap
 - Git, mercurial
 - Travis CI
+- aiohttp
 - Django
 - Bottle
 - Pony ORM
+- Peewee ORM
 - Mysql
 - PostgreSQL
 - Python 2.7 / 3
+- RQ
 - Celery
 - Tornado
 - Redis
+- CouchDB
 - Docker
 - RabbitMQ
 - Supervisord
@@ -62,6 +69,8 @@ Cвободное общение с носителями языка и чтен�
 - Рассказываю на Python Community Voronezh Meetup (DataArt) о [github.com/stleon/vk_friends](https://github.com/stleon/vk_friends) (Анализ дружеских связей VK с помощью Python) — [YouTube](https://youtu.be/RkcX6ZWU56s?t=8040)
 
 # Мастер-классы
+
+- 9 - 10 июля 2016 Ментор и член жюри на хакатоне [GeekDay](https://geekbrains.ru/geekday). [Пост](/blog/geekday-hackathon)
 
 - 29 мая 2016 Тренер на Django Girls
 
@@ -114,6 +123,8 @@ Graffity позволит лучше понять и выявить субкул
 - Mark Lutz «Learning Python»
 - Mark Lutz «Python. Pocket Reference»
 - David Beazley «Python. Essential Reference»
+- Luciano Ramalho «Fluent Python»
+- Brett Slatkin «Effective Python: 59 Specific Ways to Write Better Python»
 - Много-много статей как с Хабрахабра ([Избранное](http://habrahabr.ru/users/STLEON/favorites/tag/python/)), так и с других источников.
 
 Периодически читаю доки используемых библиотек и фреймворков.
@@ -143,12 +154,8 @@ Graffity позволит лучше понять и выявить субкул
 
 - Nginx
 - Python 3
-- Django
-- Celery
-- RabbitMQ
-- uwsgi
+- aiohttp
 - PostgreSQL
-- Django REST Framework
 
 Бывают разные проекты и разные задачи.
 
