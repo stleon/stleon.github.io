@@ -272,3 +272,7 @@ Web Page Perfomance Test:
 Участвовал в Python-викторине DataArt и победил:
 
 ![Python Quiz](/downloads/python-quiz.png)
+
+### Вопросы работодателю
+
+Чтобы не забыть что-то важное, написал [список вопросов](http://omgit.ru/questions_about_job/) работодателю. Pull Requests приветствуются
