@@ -177,7 +177,14 @@ Graffity позволит лучше понять и выявить субкул
 
 # Проекты на Github
 
+Весь список можно найти [тут](https://github.com/stleon?tab=repositories)
+
 - Есть private projects, в основном там используется Nginx + aiohttp/tornado + aiopg/ponyorm/peewee
+- [dive_into_erlang](https://github.com/stleon/dive_into_erlang) - постигая Erlang (in progress).
+- [hacker_rank_tasks](https://github.com/stleon/hacker_rank_tasks) - решаю задачки с hacker rank.
+- [ios-tests](https://github.com/stleon/ios-tests) - как только появился swift..
+- [kgb-db](https://github.com/stleon/kgb-db) - шуточная "статья" про дело-ориентированную бд =)
+- [python-bot](https://github.com/stleon/python_bot) - бот с хакатона. Пишем инструкции в телеграм, Python их выполняет. Интерпретатор в телеграме!
 - [habr_favs](https://github.com/stleon/habr_favs) - Word Cloud меток избранных статей на Habrahabr и Geektimes.
 - [Graffiti Map](http://omgit.ru/graffiti_map/) - указанный выше проект с хакатона. Вы можете размещать фото граффити на карте и добавлять к этому фото географические координаты. Также есть карта со всеми граффити, которые добавили другие люди.
 - [Асинхронный многопользовательский чат](https://github.com/stleon/tornado-redis-chat) - клиент-серверное асинхронное приложение, реализующие многопользовательский чат с комнатами и приватными сообщениями. Каждый запрос от клиента или сервера валидируется проверкой целостности сообщения. Описан протокол взаимодействия и схема запуска сервера. [Доки](http://omgit.ru/blog/tornado-redis-chat/).
