@@ -1,5 +1,5 @@
 # Site settings
-title: ST LEON
+title: Lev Tonkikh
 email: leonst998@gmail.com
 description: In Console We Trust. Code hard. Or die. Программист и идейный вдохновитель.
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -21,7 +21,7 @@ rss_name: index.html
 rss_post_limit: 20
 
 # Gems
-gems: 
+gems:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap

@@ -180,26 +180,47 @@ permalink: /curriculum-vitae/
   The **winner** of [Make City](http://te-st.ru/2015/06/02/make-city-hackathon-results/) hackathon. Hackathon is about creations of services, games and apps which improoves city arias.
   Solo Participating. [Post](/blog/te-st-hackathon-summit-2015).
 
-# Проекты на Github
+# Projects on [Github](https://github.com/stleon?tab=repositories)
 
-Весь список можно найти [тут](https://github.com/stleon?tab=repositories)
+- Pet Project. on **C** + **Swift**.
 
-- Есть private projects, в основном там используется Nginx + aiohttp/tornado + aiopg/ponyorm/peewee
-- [dive_into_erlang](https://github.com/stleon/dive_into_erlang) - постигая Erlang (in progress).
-- [hacker_rank_tasks](https://github.com/stleon/hacker_rank_tasks) - решаю задачки с hacker rank.
-- [ios-tests](https://github.com/stleon/ios-tests) - как только появился swift..
-- [kgb-db](https://github.com/stleon/kgb-db) - шуточная "статья" про дело-ориентированную бд =)
-- [python-bot](https://github.com/stleon/python_bot) - бот с хакатона. Пишем инструкции в телеграм, Python их выполняет. Интерпретатор в телеграме!
-- [habr_favs](https://github.com/stleon/habr_favs) - Word Cloud меток избранных статей на Habrahabr и Geektimes.
-- [Graffiti Map](http://omgit.ru/graffiti_map/) - указанный выше проект с хакатона. Вы можете размещать фото граффити на карте и добавлять к этому фото географические координаты. Также есть карта со всеми граффити, которые добавили другие люди.
-- [Асинхронный многопользовательский чат](https://github.com/stleon/tornado-redis-chat) - клиент-серверное асинхронное приложение, реализующие многопользовательский чат с комнатами и приватными сообщениями. Каждый запрос от клиента или сервера валидируется проверкой целостности сообщения. Описан протокол взаимодействия и схема запуска сервера. [Доки](http://omgit.ru/blog/tornado-redis-chat/).
-- [Тестовое задание для Многобайт](https://github.com/stleon/mnogobyte) — спроектировать и реализовать структуру классов, базу данных и API для управления объектами Дата-центров.
-- [Алгоритмы](https://github.com/stleon/algorithms) — собираю коллекцию алгоритмов, пополняю ее в свободное время.
-- [OmgSite](https://github.com/stleon/OmgSite). Проблематика заключалась в том, что огромный поток клиентов генерил еще больший список для анализа их сайтов. Ребятам, работающим в SEO-отделе, требовалось проанализировать каждый сайт. Этот инструмент делался на скорую руку, но стал необходимым для анализа и аудита сайтов. Осуществляет быстрый и качественный сбор информации в автоматическом режиме, достаточно указать интересующий сайт. Код не очень красив и оптимизирован, так как за него мне ничего не заплатили.
-- [vk_friends](https://github.com/stleon/vk_friends) — Информационная распределенная система по получению, построению и анализу социальных графов из сети ВКонтакте. + 2 статьи на Хабрахабре. Строит граф дружеских связей в vk.com, собирает друзей пользователя рекурсивно сколь угодно глубоко. Самое быстрое решение в мире на данный момент.
-- [Тестовое задание для HH](https://github.com/stleon/hh) — найти медиану и баланс весов.
-- [HTTP уведомления от Яндекс.Деньги для Django](https://github.com/stleon/yandex_money_http_notifications_django) — принимает http-уведомления от Яндекс.Деньги (https://money.yandex.ru/embed/). Записывает получаемую информацию в БД. Инструмент был создан после значительного вклада в https://github.com/stleon/Yandex-Money-Direct-Payment-HTTP-Notifications-Django, но у них было столько ошибок, что легче было написать самому.
+  - load averange
+  - pids count
+  - Threads count for one pid
+  - Threads count for all pids
+  - Processes info
 
+  Want to create MacOS little widget.
 
+- **Chat** on Erlang.
+  - [chatweb](https://github.com/stleon/chatweb) -- Botui (vue.js) + [JavaScriptBert](https://github.com/pankajsoni19/JavaScriptBert). So, frontend -> backend : erlang terms.
+  - [chatios](https://github.com/stleon/chatios) -- **Swift**
+  - [chaterl](https://github.com/stleon/chaterl) -- **Erlang + Bert** (fork)
+
+- [bert fork](https://github.com/stleon/bert.erl) -- **Erlang BERT encoder/decoder.**
+  - adding install via rebar
+  - adding BERT 2.0 Proposal: New complex type ([bert-rpc mailing list 1](https://groups.google.com/forum/#!starred/bert-rpc/taDWDjahiEI), [bert-rpc mailing list 2](https://groups.google.com/forum/#!starred/bert-rpc/s8zae3ajpjE)).
+
+- [HyperLogLog fork](https://github.com/stleon/hyper). Some fixes for using in production. **Merged** to origin.
+- [mx](https://github.com/halturin/mx/pulls?q=is%3Apr+author%3Astleon) - all my PR to mx -- **OTP Message Broker**
+  - Queue Limits
+  - Docs upd
+  - Clearing tables (previously saved, leading to bugs after a restart)
+  - Separate databases when using multiple instances on the same hardware
+  - Dependency, compilation, release generation update
+  - Master-Slave on different hosts
+  - Fix copying tables during replication
+
+- [raven-erlang fork](https://github.com/stleon/raven-erlang)
+  -  **No rebar_hex**, we could not build release without connecting to an external mirror (rebar_hex).
+
+- [basic sender in telegram channels](https://github.com/stleon/pechkin)
+- [dive_into_erlang](https://github.com/stleon/dive_into_erlang) - first steps in Erlang.
+- [hacker_rank_tasks](https://github.com/stleon/hacker_rank_tasks) - algorithms training.
+- [python-bot](https://github.com/stleon/python_bot) - PythonAwesomeBot. **Python interpeter in Telegtram.**
+- [habr_favs](https://github.com/stleon/habr_favs) - Word Cloud of my favourite articles.
+- [Asynchronous multi-user chat](https://github.com/stleon/tornado-redis-chat) - is a client-server asynchronous application that implements multi-user **chat** with rooms and private messages. Each request from a client or server is validated by checking the integrity of the message. The interaction protocol and server startup scheme are described.
+- [Algorithms](https://github.com/stleon/algorithms) training.
+- [vk_friends](https://github.com/stleon/vk_friends) — distributed information system for obtaining, building and analyzing social graphs from the VKontakte network. + 2 articles. Builds a graph of friendships in vk.com, gathers user friends recursively arbitrarily deeply.
 
 ![Project Euler](https://projecteuler.net/profile/stleon.png)
