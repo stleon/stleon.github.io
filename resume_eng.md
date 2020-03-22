@@ -17,14 +17,14 @@ permalink: /curriculum-vitae/
   EMPLOYER: **Kaspersky Lab** [[Wikipedia]](https://en.wikipedia.org/wiki/Kaspersky_Lab)
 
   RESPONSIBILITIES:
-  - Choice of strategy concerning software development and team management in collaboration with product owner.
-  - Non-functional requirements detection in collaboration with business analytics.
-  - Design the solution satisfying functional and non-functional software requirements.
+  - Choice of software development and team management strategy in collaboration with product owner.
+  - Detection of non-functional requirements in collaboration with business analytics.
+  - Design the solutions satisfying functional and non-functional software requirements.
   - Development of architectural solutions satisfying non-functional software requirements.
   - RND of technical practices in the industry and continuous improvement of existing technical solutions.
-  - Training development team to implement industry best practices.
+  - Training development team to implement best industry practices.
   - Interviewing new employees (Python, GoLang, JS, Erlang, QA, DevOps).
-  - Writing technical documents for architectural solutions.
+  - Writing technical documentation for architectural solutions.
   - Controlling implementation of the accepted technical solutions.
   - Planing and evaluation of development, testing and launching new software products.
 
@@ -38,7 +38,7 @@ permalink: /curriculum-vitae/
 
   RESPONSIBILITIES:
   - Development and improvement of architecture and infrastructure of the subsystem of orchestration and functioning of system components management.
-  - Coordinate development in Erlang Team.
+  - Management of development in Erlang Team.
   - CodeReview.
   - Prototyping of solutions and participation in product launch.
   - Interviewing new employees (Python, GoLang, JS, Erlang, QA, DevOps).
@@ -106,7 +106,7 @@ permalink: /curriculum-vitae/
 
 # Publications
 
-- [Analysis of VK friendly relationships using Python](http://habrahabr.ru/post/221251), *April 2014* -- receiving data using the VKontakte API, processing and building a graph of common friends. Using VkScript and stored procedures. Works **12 times faster** than competitors.
+- [Analysis of VK friendly relationships using Python](http://habrahabr.ru/post/221251), *April 2014* -- receiving data using the VKontakte API, processing and building a graph of common friends. Using VkScript and stored procedures. Worked **12 times faster** than competitors.
 
 ![Analysis of VK friendly relationships using Python](/downloads/vk_friends.png)
 
@@ -141,7 +141,7 @@ permalink: /curriculum-vitae/
 
   Coach at Django Girls (Lamoda)
 
-- *9 - 10 июля 2016*
+- *9 - 10 Jule 2016*
 
   Mentor and member of juri at hacathon [GeekDay](https://geekbrains.ru/geekday). [Post](/blog/geekday-hackabthon)
 
@@ -183,7 +183,6 @@ permalink: /curriculum-vitae/
 # Projects on [Github](https://github.com/stleon?tab=repositories)
 
 - Pet Project. on **C** + **Swift**.
-
   - load averange
   - pids count
   - Threads count for one pid
@@ -191,7 +190,6 @@ permalink: /curriculum-vitae/
   - Processes info
 
   Want to create MacOS little widget.
-
 - **Chat** on Erlang.
   - [chatweb](https://github.com/stleon/chatweb) -- Botui (vue.js) + [JavaScriptBert](https://github.com/pankajsoni19/JavaScriptBert). So, frontend -> backend : erlang terms.
   - [chatios](https://github.com/stleon/chatios) -- **Swift**
