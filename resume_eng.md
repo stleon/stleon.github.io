@@ -10,7 +10,29 @@ permalink: /curriculum-vitae/
 
 # Work
 
-- *December 2019 - present*
+- *August 2020 - present*
+
+  POSITION: **Head of Technology Research**
+
+  EMPLOYER: **Kaspersky Lab** [[Wikipedia]](https://en.wikipedia.org/wiki/Kaspersky_Lab)
+
+  RESPONSIBILITIES:
+  - Long term and short term strategic planning.
+  - Long term and short term resource planning.
+  - Creating of product roadmaps based on business requirements.
+  - Choice of software development and team management strategy.
+  - Detection of non-functional requirements in collaboration with business analytics.
+  - Design the solutions satisfying functional and non-functional software requirements.
+  - Development of architectural solutions satisfying non-functional software requirements.
+  - RND of technical practices in the industry and continuous improvement of existing technical solutions.
+  - Training development team to implement best industry practices.
+  - Writing technical documentation for architectural solutions.
+  - Controlling implementation of the accepted technical solutions.
+  - Planing and evaluation of development, testing and launching new software products.
+
+  TYPE OF BUSINESS: Software
+
+- *December 2019 - August 2020* (9 month)
 
   POSITION: **System Architect**
 
